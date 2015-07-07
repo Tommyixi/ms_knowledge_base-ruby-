@@ -1,0 +1,25 @@
+<div class='row word-list'>
+	<div class='large-12 columns'>
+    <ul class='no-bullet'>
+    <% @words.each do |word| %>
+      <li class='panel radius'><span class='word-title'><%= word.title %></span>- <%= word.definition %>
+      	<span class='author'>
+      		submitted by: <%= word.user.email %> 
+      	</span>
+      	<% if word.user == current_user %>
+      		<%= link_to "edit", edit_word_path(word) %>
+      		<%= link_to "destroy", :method => :delete %>
+      	<% end %>
+      </li>
+    <%end %>
+    </ul>
+	</div>
+</div>
+
+<div class='row'>
+	<div class='small-12 columns'>
+		<% if current_user %>
+      <%= link_to 'Add a new word!', new_word_path, class: 'button' %>
+		<% end %>
+	</div>
+</div>

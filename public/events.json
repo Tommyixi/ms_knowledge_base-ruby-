@@ -1,0 +1,410 @@
+{
+    "timeline":
+    {
+        "headline": "Multiple Sclerosis Research Group Timeline",
+        "type":"default",
+        "text": "A combined effort to display the publications, experiments, recruitment, and milestones of the UCSF department of Multiple Sclerosis  group.",
+        "asset": {
+            "media": "http://msepicstudy.com/wp-content/uploads/2015/04/EPIC_team_web.jpg",
+            "credit":"Credit Name Goes Here",
+            "caption":"Caption text goes here"
+        },
+        "date": [
+            {
+                "startDate": "2014-12-16T05:00:00.000Z",
+                "headline": "Whole genome sequences of 2 octogenarians with sustained cognitive abilities",
+                "text": "Nickles D, Madireddy L, Patel N, Isobe N, Miller BL, Baranzini SE, Kramer JH, Oksenberg JR.",
+                "media": "http://www.ncbi.nlm.nih.gov/pubmed/25618617?dopt=Abstract"
+            },
+            {
+                "startDate": "2013-10-07T04:00:00.000Z",
+                "headline": "Oligoclonal bands and age at onset correlate with genetic risk score in multiple sclerosis",
+                "text": "Harbo HF, Isobe N, Berg-Hansen P, Bos SD, Caillier SJ, Gustavsen MW, Mero IL, Celius EG, Hauser SL, Oksenberg JR, Gourraud PA.",
+                "media": "http://www.ncbi.nlm.nih.gov/pubmed/24099750?dopt=Abstract"
+            },
+            {
+        "startDate": "2013-09-29T04:00:00.000Z",
+        "headline": "Analysis of immune-related loci identifies 48 new susceptibility variants for multiple sclerosis. Nat",
+        "text": "International Multiple Sclerosis Genetics Consortium.",
+        "asset": {
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/24076602?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2013-08-01T04:00:00.000Z",
+        "headline": "Genetic burden in multiple sclerosis families",
+        "text": "Isobe N, Damotte V, Lo Re V, Ban M, Pappas D, Guillot-Noel L, Rebeix I, Compston A, Mack T, Cozen W, Fontaine B, Hauser SL, Oksenberg JR, Sawcer S, Gourraud PA.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/23903824?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2013-06-26T04:00:00.000Z",
+        "headline": "Blood RNA profiling in a large cohort of multiple sclerosis patients and healthy controls.",
+        "text": "Nickles D, Chen HP, Li MM, Khankhanian P, Madireddy L, Caillier SJ, Santaniello A, Cree BA, Pelletier D, Hauser SL, Oksenberg JR, Baranzini SE.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/23748426?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2013-06-14T04:00:00.000Z",
+        "headline": "Genetic risk variants in African Americans with multiple sclerosis.",
+        "text": "Isobe N, Gourraud PA, Harbo HF, Caillier SJ, Santaniello A, Khankhanian P, Maiers M, Spellman S, Cereb N, Yang S, Pando MJ, Piccio L, Cross AH, De Jager PL, Cree BA, Hauser SL, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/23771490?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2013-06-06T04:00:00.000Z",
+        "headline": "Blood RNA profiling in a large cohort of multiple sclerosis patients and healthy controls.",
+        "text": "Nickles D, Chen HP, Li MM, Khankhanian P, Madireddy L, Caillier SJ, Santaniello A, Cree BA, Pelletier D, Hauser SL, Oksenberg JR, Baranzini SE.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/23748426?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2013-05-23T04:00:00.000Z",
+        "headline": "Network-Based Multiple Sclerosis Pathway Analysis with GWAS Data from 15,000 Cases and 30,000 Controls. Am J Hum Genet. 2013.",
+        "text": "International Multiple Sclerosis Genetics Consortium.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/23731539?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2012-12-13T05:00:00.000Z",
+        "headline": "Copy number variation in pediatric multiple sclerosis.",
+        "text": "McElroy J, Krupp L, Johnson B, McCauley J, Qi Z, Caillier S, Gourraud P, Yu J, Nathanson L, Belman A, Hauser S, Waubant E, Hedges D, Oksenberg J.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/23239789?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2013-02-13T05:00:00.000Z",
+        "headline": "A genome-wide association study of brain lesion distribution in multiple sclerosis",
+        "text": "Gourraud PA, Sdika M, Khankhanian P, Henry RG, Beheshtian A, Matthews PM, Hauser SL, Oksenberg JR, Pelletier D, Baranzini SE.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/23412934?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2012-09-15T04:00:00.000Z",
+        "headline": "Transcriptional expression patterns triggered by chemically distinct neuroprotective molecules.",
+        "text": "Pappas DJ, Gabatto PA, Oksenberg D, Khankhanian P, Baranzini SE, Gan L, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/22986168?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2012-09-14T04:00:00.000Z",
+        "headline": "In depth comparison of an individual's DNA and its lymphoblastoid cell line using whole genome sequencing.",
+        "text": "Nickles D, Madireddy L, Yang S, Khankhanian P, Lincoln S, Hauser SL, Oksenberg JR, Baranzini SE.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/22974163?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2011-12-12T05:00:00.000Z",
+        "headline": "Genome-wide association study of severity in multiple sclerosis.",
+        "text": "International Multiple Sclerosis Genetics Consortium.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/21654844?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2011-06-09T04:00:00.000Z",
+        "headline": "SNP-based analysis of the HLA locus in Japanese multiple sclerosis patients.",
+        "text": "McElroy JP, Isobe N, Gourraud PA, Caillier SJ, Matsushita T, Kohriyama T, Miyamoto K, Nakatsuji Y, Miki T, Hauser SL, Oksenberg JR, Kira J.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/21654846?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2011-05-24T04:00:00.000Z",
+        "headline": "Vitamin D in African Americans with multiple sclerosis.",
+        "text": "Gelfand JM, Cree BA, McElroy J, Oksenberg J, Green R, Mowry EM, Miller JW, Hauser SL, Green AJ.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/21606454?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2011-01-11T05:00:00.000Z",
+        "headline": "Aggregation of multiple sclerosis genetic risk variants in multiple and single case families.",
+        "text": "Gourraud PA, McElroy JP, Caillier SJ, Johnson BA, Santaniello A, Hauser SL, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/21280076?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "118/2011",
+        "headline": "Modeling the Cumulative Genetic Risk for Multiple Sclerosis from Genome Wide Association Data.",
+        "text": "Wang JH, Pappas D, De Jager PL, Pelletier D, de Bakker PI, Kappos L, Polman CH, Multiple Sclerosis Genetics Consortium AA, Chibnik LB, Hafler DA, Matthews PM, Hauser SL, Baranzini SE, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/21244703?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2010-11-10T05:00:00.000Z",
+        "headline": "Genetic variation in the odorant receptors family 13 and the mhc loci influence mate selection in a multiple sclerosis dataset.",
+        "text": "Khankhanian P, Gourraud PA, Caillier SJ, Santaniello A, Hauser SL, Baranzini SE, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/21067613?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2010-06-11T04:00:00.000Z",
+        "headline": "Multiple sclerosis susceptibility alleles in African Americans.",
+        "text": "Johnson BA, Wang J, Taylor EM, Caillier SJ, Herbert J, Khan OA, Cross AH, De Jager PL, Gourraud PA, Cree BC, Hauser SL, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/19865102?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2010-08-01T04:00:00.000Z",
+        "headline": "Refining the association of MHC with multiple sclerosis in African Americans.",
+        "text": "McElroy JP, Cree BA, Caillier SJ, Gregersen PK, Herbert J, Khan OA, Freudenberg J, Lee A, Bridges SL Jr, Hauser SL, Oksenberg JR, Gourraud PA.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/20466734?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2010-04-29T04:00:00.000Z",
+        "headline": "Genome, epigenome and RNA sequences of monozygotic twins discordant for multiple sclerosis.",
+        "text": "Baranzini SE, Mudge J, van Velkinburgh JC, Khankhanian P, Khrebtukova I, Miller NA, Zhang L, Farmer AD, Bell CJ, Kim RW, May GD, Woodward JE, Caillier SJ, McElroy JP, Gomez R, Pando MJ, Clendenen LE, Ganusova EE, Schilkey FD, Ramaraj T, Khan OA, Huntley JJ, Luo S, Kwok PY, Wu TD, Schroth GP, Oksenberg JR, Hauser SL, Kingsmore SF.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/20428171?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2010-04-09T04:00:00.000Z",
+        "headline": "Evidence for polygenic susceptibility to multiple sclerosis--the shape of things to come.",
+        "text": "International Multiple Sclerosis Genetics Consortium (IMSGC), Bush WS, Sawcer SJ, de Jager PL, Oksenberg JR, McCauley JL, Pericak-Vance MA, Haines JL.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/20362272?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2010-01-05T05:00:00.000Z",
+        "headline": "Multiple sclerosis pharmacogenomics: maximizing efficacy of therapy.",
+        "text": "Pappas DJ, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/20038765?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2009-11-03T05:00:00.000Z",
+        "headline": "Mapping of multiple susceptibility variants within the MHC region for 7 immune-mediated diseases.",
+        "text": "International MHC and Autoimmunity Genetics Network, Rioux JD, Goyette P, Vyse TJ, Hammarström L, Fernando MM, Green T, De Jager PL, Foisy S, Wang J, de Bakker PI, Leslie S, McVean G, Padyukov L, Alfredsson L, Annese V, Hafler DA, Pan-Hammarström Q, Matell R, Sawcer SJ, Compston AD, Cree BA, Mirel DB, Daly MJ, Behrens TW, Klareskog L, Gregersen PK, Oksenberg JR, Hauser SL.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/19846760?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2009-10-07T04:00:00.000Z",
+        "headline": "Longitudinal system-based analysis of transcriptional responses to type I interferons.",
+        "text": "Pappas DJ, Coppola G, Gabatto PA, Gao F, Geschwind DH, Oksenberg JR, Baranzini SE.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/19531577?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2009-06-14T04:00:00.000Z",
+        "headline": "Meta-analysis of genome scans and replication identify CD6, IRF8 and TNFRSF1A as new multiple sclerosis susceptibility loci",
+        "text": "De Jager PL, Jia X, Wang J, de Bakker PI, Ottoboni L, Aggarwal NT, Piccio L, Raychaudhuri S, Tran D, Aubin C, Briskin R, Romano S; International MS Genetics Consortium, Baranzini SE, McCauley JL, Pericak-Vance MA, Haines JL, Gibson RA, Naeglin Y, Uitdehaag B, Matthews PM, Kappos L, Polman C, McArdle WL, Strachan DP, Evans D, Cross AH, Daly MJ, Compston A, Sawcer SJ, Weiner HL, Hauser SL, Hafler DA, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/19525953?dopt=Abstract"
+        }
+    },
+    {
+        "startDate": "2007-11-01T04:00:00.000Z",
+        "headline": "Adam Santaniello",
+        "text": "Database Manager",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/AdamSantaniello.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/AdamSantaniello.jpg"
+        }
+    },
+    {
+        "startDate": "1998-07-01T04:00:00.000Z",
+        "headline": "Stacy J. Caillier, B.S.",
+        "text": "Molecular Genetics/Lab Manager",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/StacyJCaillier_B.S.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/StacyJCaillier_B.S.jpg"
+        }
+    },
+    {
+        "startDate": "2006-08-01T04:00:00.000Z",
+        "headline": "Pouya Khankhanian, M.D.",
+        "text": "Bioinformatics",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/PouyaKhankhanian.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/PouyaKhankhanian.jpg"
+        }
+    },
+    {
+        "startDate": "2009-08-01T04:00:00.000Z",
+        "headline": "Lohith Madireddy",
+        "text": "Bioinformatics",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/LohithMadireddy.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/LohithMadireddy.jpg"
+        }
+    },
+    {
+        "startDate": "2004-08-01T04:00:00.000Z",
+        "headline": "Cuquita Gomez, B.S.",
+        "text": "Clinical Research Coordinator",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/CuquitaGomez2.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/CuquitaGomez2.jpg"
+        }
+    },
+    {
+        "startDate": "2014-08-01T04:00:00.000Z",
+        "headline": "Stacy Hatcher",
+        "text": "Clinical Coordinator",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/StacyHatcher.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/StacyHatcher.jpg"
+        }
+    },
+    {
+        "startDate": "2012-04-01T04:00:00.000Z",
+        "endDate": "2015-06-01T04:00:00.000Z",
+        "headline": "Rachel Kanner",
+        "text": "Clinical Coordinator",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/RachelKanner.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/RachelKanner.jpg"
+        }
+    },
+    {
+        "startDate": "2004-04-01T05:00:00.000Z",
+        "headline": "Hourieh Mousavi",
+        "text": "Bio-specimens Repository",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/HouriehMousavi_new.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/HouriehMousavi_new.jpg"
+        }
+    },
+    {
+        "startDate": "2004-07-01T04:00:00.000Z",
+        "headline": "Rosa Guerrero",
+        "text": "Bio-specimens Repository",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/RosaGuerrero.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/RosaGuerrero.jpg"
+        }
+    },
+    {
+        "startDate": "2013",
+        "headline": "Janet Yau",
+        "text": "Administrative Support",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/JanetYau.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/JanetYau.jpg"
+        }
+    },
+    {
+        "startDate": "2015-06-01T04:00:00.000Z",
+        "headline": "Thomas Carpenito",
+        "text": "Programmer/Analyst 1"
+    },
+    {
+        "startDate": "1993",
+        "headline": "Jorge R. Oksenberg, Ph.D.",
+        "text": "Professor in the Department of Neurology",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/JorgeR.Oksenberg.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/JorgeR.Oksenberg.jpg"
+        }
+    },
+    {
+        "startDate": "1992",
+        "headline": "Stephen L. Hauser, M.D.",
+        "text": "Professor and Chair of the Department of Neurology",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/StephenHauser-new.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/StephenHauser-new.jpg"
+        }
+    },
+    {
+        "startDate": "1997",
+        "headline": "Sergio Baranzini, Ph.D.",
+        "text": "Associate Professor at the Department of Neurology, UCSF",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/SergioBaranzini-new.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/SergioBaranzini-new.jpg"
+        }
+    },
+    {
+        "startDate": "2003",
+        "headline": "Bruce C. Cree, M.D., Ph.D.",
+        "text": "Assistant Professor of Neurology",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/BruceCree-new.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/BruceCree-new.jpg"
+        }
+    },
+    {
+        "startDate": "2009",
+        "headline": "Pierre-Antoine Gourraud, Ph.D., MPH",
+        "text": "Assistant Professor",
+        "asset":{
+            "media": "http://www.msgenes.ucsf.edu/images/PierreAntoineGourraud-new.jpg",
+            "mediaThumbnail": "http://www.msgenes.ucsf.edu/images/PierreAntoineGourraud-new.jpg"
+        }
+    },
+    {
+        "startDate": "2004",
+        "headline": "EPIC",
+        "asset":{
+            "media": "http://msepicstudy.com/"
+        }
+    },
+    {
+        "startDate": "2015-02-04T05:00:00.000Z",
+        "headline": "Genetic determinants of risk and progression in multiple sclerosis.",
+        "text": "Didonna A, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/25661088"
+        }
+    },
+    {
+        "startDate": "2015-02-14T05:00:00.000Z",
+        "headline": "Genetic associations with brain cortical thickness in multiple sclerosis.",
+        "text": "Matsushita T, Madireddy L, Sprenger T, Khankhanian P, Magon S, Naegelin Y, Caverzasi E, Lindberg RL, Kappos L, Hauser SL,Oksenberg JR, Henry R, Pelletier D, Baranzini SE.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/25684059"
+        }
+    },
+    {
+        "startDate": "2015-03-28T04:00:00.000Z",
+        "headline": "An ImmunoChip study of multiple sclerosis risk in African Americans.",
+        "text": "Isobe N, Madireddy L, Khankhanian P, Matsushita T3, Caillier SJ, Moré JM, Gourraud PA, McCauley JL, Beecham AH; International Multiple Sclerosis Genetics Consortium, Piccio L, Herbert J, Khan O, Cohen J, Stone L, Santaniello A2, Cree BA, Onengut-Gumuscu S9, Rich SS, Hauser SL, Sawcer S, Oksenberg JR",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/25818868"
+        }
+    },
+    {
+        "startDate": "2015-07-01T04:00:00.000Z",
+        "headline": "Mitochondrial DNA sequence variation in multiple sclerosis.",
+        "text": "Tranah GJ, Santaniello A, Caillier SJ, D'Alfonso S, Martinelli Boneschi F, Hauser SL, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/26136518"
+        }
+    },
+    {
+        "startDate": "2015-06-30T04:00:00.000Z",
+        "headline": "The immunogenetics of multiple sclerosis: A comprehensive review.",
+        "text": "Hollenbach JA, Oksenberg JR.",
+        "asset":{
+            "media": "http://www.ncbi.nlm.nih.gov/pubmed/26142251"
+        }
+    }
+
+
+        ]
+    }
+}
+

@@ -1,0 +1,9 @@
+<div class='row'>
+	<div class='small-12 columns'>
+		<%= form_for @word do |f| %>
+			Title: <%= f.text_field :title %> <br>
+			Definition: <%= f.text_area :definition %>
+			<%= f.submit class: 'button' %>
+		<% end %>
+	</div>
+</div>
